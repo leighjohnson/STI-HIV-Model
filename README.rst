@@ -17,9 +17,11 @@ The program is written in standard ANSI/ISO C++ (C++03) and any C++ compiler sho
 Installation
 ------------
 
-If you don't have git, download the file latest.zip and unzip it.
+Go to: https://github.com/leighjohnson/STI-HIV-Model
 
-If you do have git, simply fork the github directory: leighjohnson/STI-HIV-Model
+If you don't have git, click the ZIP icon and download a zipped file of the contents. Unzip it in a folder on your computer.
+
+If you do have git, you can simply fork the github directory.
 
 Microsft Visual C++ 2010 Express
 ================================
