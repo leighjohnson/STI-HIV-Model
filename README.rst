@@ -26,7 +26,17 @@ If you do have git, you can simply fork the github directory.
 Microsft Visual C++ 2010 Express
 ================================
 
-Open the project file and build the program.
+Select File | New | Project From Existing Code ... 
+
+This opens a Wizard.
+
+On the Welcome window select Visual C++. Click Next.
+
+On the next window, Specify Project Location and Source Files, select the folder where the source has been unzipped and give the project a name. Click Next.
+
+On the final window, Specify Project Settings, make sure to select *Console application project*. If you don't do this, it won't compile properly. Leave everything else unchecked. Click Finish.
+
+To compile the program, press F7 or select Build | Build Solution.
 
 g++ under Linux and g++ under Windows using MinGW
 =================================================
