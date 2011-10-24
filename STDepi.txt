@@ -1,0 +1,120 @@
+AveDuration by stage for HSV-2 (M then F)
+2.6		463.0	1.1	
+2.6		463.0	1.1
+AveDuration by stage for syphilis (M then F)
+4.4		6.6		15.7	520.0	26.0	52.0
+4.4		6.6		15.7	520.0	26.0	52.0
+AveDuration by stage for chancroid (M then F)
+8.7		8.7
+8.7		8.7
+AveDuration by stage for gonorrhoea (M then F)
+15.0	15.0
+15.0	15.0
+AveDuration by stage for chlamydia (M then F)
+16.0	16.0
+52.0	52.0
+AveDuration by stage for trichomoniasis (M then F)
+2.0		20.0
+15.0	150.0
+AveDuration by stage for HIV (M then F)
+13.0	268.0	215.0	102.0	675.0
+13.0	268.0	215.0	102.0	675.0
+AveDuration by stage for VC
+26.0	12.1
+CtsTransition into BV state 1 (from states 2, 3 & 4)
+0.069	0.008	0.008
+CtsTransition into BV state 2 (from states 1, 3 & 4)
+0.03	0.051	0.051
+Annualized RecurrenceRate (HSV-2 M & F, VC)
+5.62	5.62	0.53
+SymptomaticPropn (HSV-2, HD, NG, CT, TV, BV; M then F)
+0.30	0.80	0.90	0.30	0.40
+0.30	0.80	0.40	0.15	0.30	0.25
+TransmProb (HSV-2, TP, HD, NG, CT, TV; M then F)
+0.005	0.15	0.15	0.2		0.16	0.15
+0.0025	0.1		0.1		0.12	0.12	0.04
+TransmProb[] for HIV (CSW-client, ST rel, LT rel; M then F)
+0.03	0.015	0.003
+0.02	0.005	0.002
+CondonEff (HSV-2, TP, HD, NG, CT, TV, HIV; M then F)
+0.75	0.9		0.9		0.9		0.9		0.9		0.9
+0.75	0.9		0.9		0.9		0.9		0.9		0.9
+SuscepIncrease in males (HSV-2, TP, HD, NG, CT, TV, HIV)
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+SuscepIncrease in females (HSV-2, TP, HD, NG, CT, TV, HIV)
+1.0		1.0		1.0		1.0		4.0		1.0		2.5
+1.0		1.0		1.0		1.0		4.0		1.0		2.5
+1.0		1.0		1.0		1.0		2.0		1.0		1.5
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+1.0		1.0		1.0		1.0		1.0		1.0		1.0
+Herpes SheddingIncrease[5]
+1.0		1.0		1.0		1.0		1.0
+Herpes RecurrenceIncrease[5]
+1.0		1.0		2.0		3.0		1.0
+VC IncidenceIncrease[5]
+0.0		0.0		0.5		1.0		0.0
+Weekly incidence of VC (15-19) and BV (1 partner)
+0.01	0.1
+BV IncidenceMultTwoPartners, IncidenceMultNoPartners
+1.0		0.5
+Herpes SymptomInfecIncrease
+15.0
+InfecIncreaseSyndrome[][] (GUD, discharge, asymp STD; M then F)
+4.0		4.0		2.0
+4.0		4.0		2.0
+InfecIncreaseSyndrome[][] (GUD, discharge, asymp STD; M then F)
+9.0		4.0		1.5
+9.0		4.0		1.5
+RelHIVfertility, by HIV stage
+1.00	0.92	0.80	0.73	0.94
+PropnInfectedAtBirth, PropnInfectedAfterBirth
+0.20	0.16
+MaleRxRate, MaleTeenRxRate, FemRxRate, FemTeenRxRate, FSWRxRate
+0.23	0.57	0.12	0.23	0.90
+PropnTreatedPublicM, PropnTreatedPublicF, PropnTreatedPrivateM, PropnTreatedPrivateF
+0.45	0.60	0.40	0.30
+CorrectRxPreSM (HSV-2, TP, HD, NG, CT, TV, BV, VC)
+0.0		0.70	0.20	0.70	0.70	0.40	0.40	0.50
+CorrectRxWithSM (HSV-2, TP, HD, NG, CT, TV, BV; M then F)
+0.00	1.00	1.00	1.00	1.00	0.50
+0.00	1.00	1.00	1.00	1.00	1.00	1.00
+DrugEff (HSV-2, TP, HD, NG, CT, TV, BV, VC)
+0.90	0.90	0.90	0.90	0.90	0.90	0.60	0.55
+DrugPartialEff (BV, VC)
+0.20	0.30
+TradnalEff (HSV-2, TP, HD, NG, CT, TV, BV, VC)
+0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+Syphilis: ANCpropnScreened, ANCpropnTreated
+0.75	0.80
+HIV: AcceptScreening, AcceptNVP, RednNVP, RednFF
+0.80	1.00	0.47	0.50
+Syphilis: SecondaryRxMult, SecondaryCureMult
+0.00	0.00
+FSWasympRxRate, FSWasympCure
+0.025	0.5

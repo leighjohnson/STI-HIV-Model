@@ -1,0 +1,10 @@
+ANC data (sentinel)
+FPC data
+GUD data
+1988	100	0.140	0.690	1.000	0.00490	0.00000	1	0.030
+1997	23	0.000	0.690	1.000	0.00490	0.00000	1	0.680
+2000	149	0.060	0.950	1.000	0.00040	0.00000	1	0.860
+CSW data
+Household data (sentinel)
+ANC data (national)
+Household data (national)
