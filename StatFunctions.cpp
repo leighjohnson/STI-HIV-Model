@@ -4,16 +4,12 @@
 // Downloaded from http://www.csit.fsu.edu/~burkardt/cpp_src/dcdflib/dcdflib.html,
 // on 4 March 2005. Last revised 22 June 2004.
 
-# include <cstdlib>
-# include <iostream>
-# include <iomanip>
-# include <cmath>
-# include <ctime>
-#include <string>
+#include <cstdlib>
+#include <iostream>
+#include <iomanip>
+#include <cmath>
+#include <ctime>
 
-#include "stdafx.h"
-
-//#using <mscorlib.dll>
 #include "StatFunctions.h"
 
 using namespace std;
@@ -7910,7 +7906,7 @@ S20:
 }
 //****************************************************************************
 
-void ftnstop ( const string& msg)
+void ftnstop ( const char* msg)
 
 //****************************************************************************
 //

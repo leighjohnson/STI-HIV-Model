@@ -18,10 +18,10 @@
 *  GNU General Public License www.gnu.org/copyleft/gpl.html                  *
 *****************************************************************************/
 
-#include "stdafx.h"
+#include <iostream>
+#include <time.h>
 
 #include "randomc.h"
-#include <time.h>
 
 using namespace std;
 
