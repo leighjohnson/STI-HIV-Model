@@ -55,3 +55,7 @@ Agner Fog is the author of the mersenne twister code.
 
 Barry Brown, James Lovato, and Kathy Russell are the authors of the statistics functions in StatFunctions.cpp and StatFunctions.h
 
+.. math::
+  x^2
+  
+Testing.
