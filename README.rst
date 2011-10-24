@@ -10,9 +10,9 @@ The code has been tested using the following compilers:
 
 - Microsoft Visual C++ 2010 Express on Microsoft Windows
 - MinGW's port of g++ on Microsoft Windows
-- g++ under Linux
+- g++ on Linux
 
-The program is written in standard ANSI/ISO C++ (C++03) and any C++ compiler should compile it. It is a console application without any operating specific instructions. The compiler will generate several warnings. These can be ignored.
+The program is written in standard ANSI/ISO C++ (C++03) and any C++ compiler should compile it. It is a console application without any operating system specific code. The compiler will generate several warnings. These can be ignored.
 
 Installation
 ------------
@@ -43,4 +43,15 @@ If you used MinGW, the executable program is called *stihiv.exe*.
 In Linux the executable is called *stihiv*.
 
 Further technical notes can be found in the file notes.rtf
+
+Credits
+-------
+
+Leigh Johnson is the author of the STI HIV model coded in TSHISAv1.cpp and TSHISAv1.h.
+
+This 3rd-party code is used by this project:
+
+Agner Fog is the author of the mersenne twister code.
+
+Barry Brown, James Lovato, and Kathy Russell are the authors of the statistics functions in StatFunctions.cpp and StatFunctions.h
 
