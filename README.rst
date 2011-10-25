@@ -54,7 +54,7 @@ If you used MinGW, the executable program is called *stihiv.exe*.
 
 In Linux the executable is called *stihiv*.
 
-Further technical notes can be found in the file notes.rtf
+Further technical notes can be found in the file *notes.html*.
 
 Credits
 -------
