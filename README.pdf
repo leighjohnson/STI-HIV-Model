@@ -2378,7 +2378,7 @@ endobj
 % 'R34': class PDFInfo 
 34 0 obj
 << /Author ()
- /CreationDate (D:20111026223756-02'00')
+ /CreationDate (D:20111026225436-02'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -2469,7 +2469,7 @@ endobj
 << /Dest [ 16 0 R
  /XYZ
  62.69291
- 308.0236
+ 290.0236
  0 ]
  /Parent 35 0 R
  /Prev 41 0 R
@@ -2719,7 +2719,7 @@ endobj
 % 'R45': class PDFStream 
 45 0 obj
 % page stream
-<< /Length 9607 >>
+<< /Length 9701 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2735,27 +2735,27 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Technical note for users of the 
 Q
 Q
 q
-1 0 0 1 62.69291 702.0236 cm
+1 0 0 1 62.69291 678.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (NB: This technical note does not display equations in github. Read the generated file README.pdf.) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL .159985 Tw (Note: This technical note does not display equations in github. You have to read the generated file) Tj T* 0 Tw 1.247318 Tw (README.pdf to see the math display properly. Click on the README.pdf file in github and then) Tj T* 0 Tw (click *view raw*. It should then be displayed properly by your pdf reading software.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 660.0236 cm
+1 0 0 1 62.69291 636.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .638735 Tw (Running the HIV-STI model generates several output files. The output files should be saved in the same) Tj T* 0 Tw .449461 Tw (folder as the folder in which the other project files are saved. For the purpose of the published paper, the) Tj T* 0 Tw (key output files are:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 654.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 Q
 q
-1 0 0 1 62.69291 654.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 Q
 q
-1 0 0 1 62.69291 642.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2776,23 +2776,23 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 642.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 Q
 q
-1 0 0 1 62.69291 624.0236 cm
+1 0 0 1 62.69291 600.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HIVincByAgeF.txt: HIV incidence rates in women at the start of 2008, by 5-year age group) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 618.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 Q
 q
-1 0 0 1 62.69291 618.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 Q
 q
-1 0 0 1 62.69291 606.0236 cm
+1 0 0 1 62.69291 582.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2813,10 +2813,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 600.0236 cm
+1 0 0 1 62.69291 576.0236 cm
 Q
 q
-1 0 0 1 62.69291 588.0236 cm
+1 0 0 1 62.69291 564.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2837,10 +2837,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 582.0236 cm
+1 0 0 1 62.69291 558.0236 cm
 Q
 q
-1 0 0 1 62.69291 570.0236 cm
+1 0 0 1 62.69291 546.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2861,10 +2861,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 564.0236 cm
+1 0 0 1 62.69291 540.0236 cm
 Q
 q
-1 0 0 1 62.69291 528.0236 cm
+1 0 0 1 62.69291 504.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2885,10 +2885,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 522.0236 cm
+1 0 0 1 62.69291 498.0236 cm
 Q
 q
-1 0 0 1 62.69291 510.0236 cm
+1 0 0 1 62.69291 486.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2909,10 +2909,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 504.0236 cm
+1 0 0 1 62.69291 480.0236 cm
 Q
 q
-1 0 0 1 62.69291 480.0236 cm
+1 0 0 1 62.69291 456.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2933,10 +2933,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 474.0236 cm
+1 0 0 1 62.69291 450.0236 cm
 Q
 q
-1 0 0 1 62.69291 450.0236 cm
+1 0 0 1 62.69291 426.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2957,10 +2957,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 444.0236 cm
+1 0 0 1 62.69291 420.0236 cm
 Q
 q
-1 0 0 1 62.69291 420.0236 cm
+1 0 0 1 62.69291 396.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2981,44 +2981,44 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 420.0236 cm
+1 0 0 1 62.69291 396.0236 cm
 Q
 q
-1 0 0 1 62.69291 366.0236 cm
+1 0 0 1 62.69291 342.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .654104 Tw (To verify that you've compiled and run the program successfully, you can compare \(e.g. using a tool like) Tj T* 0 Tw .869982 Tw (diff\) the contents of the generated file HIVinc15to49.txt to HIVinc15to49.cmp. These should be identical.) Tj T* 0 Tw .227765 Tw (\(Note that Linux and Windows carriage returns differently and that if you use diff under Linux, you need to) Tj T* 0 Tw (account for this.\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 264.0236 cm
+1 0 0 1 62.69291 240.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 1.162651 Tw (In each of these output files, each row corresponds to a different simulation \(1000 randomly generated) Tj T* 0 Tw 1.986905 Tw (simulations in total\). For the HIVinc15to49.txt, CoVHIVinc.txt and all ANCprev text files, each column) Tj T* 0 Tw .275318 Tw (corresponds to a different projection year \(the third column corresponds to 1985, the first projection year\).) Tj T* 0 Tw .09784 Tw (For the HIVincByAge, HSRCprev and HSRC2008 text files, each column corresponds to a different 5-year) Tj T* 0 Tw 1.26436 Tw (age group \(the third column corresponds to 15-19 year olds and the last column corresponds to 55-59) Tj T* 0 Tw .789213 Tw (year olds\). For the RandomUniformSex.txt file, each column corresponds to a different sexual behaviour) Tj T* 0 Tw 1.742765 Tw (parameter that is allowed to vary in the uncertainty analysis \(the last column is 1 \226 the condom bias) Tj T* 0 Tw (parameter\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 162.0236 cm
+1 0 0 1 62.69291 138.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 1.163318 Tw (These output files contain only the raw outputs. To generate the summary outputs we recommend that) Tj T* 0 Tw 1.484983 Tw (users copy the output files into spreadsheets and use spreadsheet formulas to calculate the summary) Tj T* 0 Tw 1.030697 Tw (outputs. For example, in Microsoft Excel, the formula \221=AVERAGE\(cell range\)\222 can be used to calculate) Tj T* 0 Tw 6.413615 Tw (the mean of the posterior sample, and the formulas \221=PERCENTILE\(cell range,0.025\)\222 and) Tj T* 0 Tw 2.934983 Tw (\221=PERCENTILE\(cell range,0.975\)\222 can be used to calculate the lower and upper limits of the 95%) Tj T* 0 Tw .53561 Tw (confidence intervals respectively. It may also be necessary to use Excel to calculate some of the outputs) Tj T* 0 Tw .681984 Tw (that are functions of the existing variables. For example, the probability that an HIV-negative 15-year old) Tj T* 0 Tw (becomes infected before age 60 is approximated using the formula) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 156.0236 cm
+1 0 0 1 62.69291 132.0236 cm
 Q
 q
-1 0 0 1 62.69291 144.0236 cm
+1 0 0 1 62.69291 120.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 144.0236 cm
+1 0 0 1 62.69291 120.0236 cm
 Q
 q
-1 0 0 1 246.1378 109.0236 cm
+1 0 0 1 246.1378 85.02362 cm
 BT 1 0 0 1 0 12.50156 Tm /F4+0 12 Tf 14.4 TL (1) Tj T* ET
 BT 1 0 0 1 6 12.50156 Tm /F5+0 12 Tf 14.4 TL (\200) Tj T* ET
 BT 1 0 0 1 19.32227 29.4 Tm /F4+0 8.4 Tf 10.08 TL (1) Tj T* ET
@@ -3043,17 +3043,7 @@ BT 1 0 0 1 94.70805 18.44044 Tm /F4+0 8.4 Tf 10.08 TL (5) Tj T* ET
 [] 0 d
 Q
 q
-1 0 0 1 62.69291 103.0236 cm
-Q
-q
-1 0 0 1 62.69291 91.02362 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 91.02362 cm
+1 0 0 1 62.69291 79.02362 cm
 Q
  
 endstream
@@ -3061,11 +3051,21 @@ endobj
 % 'R46': class PDFStream 
 46 0 obj
 % page stream
-<< /Length 8114 >>
+<< /Length 8250 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 753.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
 q
 q
 28 0 0 14 30.35443 33 cm
@@ -3083,7 +3083,7 @@ BT 1 0 0 1 0 38 Tm .344431 Tw 12 TL /F1 10 Tf 0 0 0 rg (where ) Tj 58.35443 0 Td
 Q
 Q
 q
-1 0 0 1 62.69291 651.0236 cm
+1 0 0 1 62.69291 633.0236 cm
 q
 q
 13 0 0 10 236.3899 22 cm
@@ -3113,20 +3113,20 @@ BT 1 0 0 1 0 50 Tm .84686 Tw 12 TL /F1 10 Tf 0 0 0 rg (To get the adjusted model
 Q
 Q
 q
-1 0 0 1 62.69291 645.0236 cm
+1 0 0 1 62.69291 627.0236 cm
 Q
 q
-1 0 0 1 62.69291 633.0236 cm
+1 0 0 1 62.69291 615.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 633.0236 cm
+1 0 0 1 62.69291 615.0236 cm
 Q
 q
-1 0 0 1 254.6378 614.0236 cm
+1 0 0 1 254.6378 596.0236 cm
 BT 1 0 0 1 0 6.688306 Tm /F4+0 12 Tf 14.4 TL ([) Tj T* ET
 BT 1 0 0 1 3.322266 6.688306 Tm /F4+0 12 Tf 14.4 TL (1) Tj T* ET
 BT 1 0 0 1 11.4293 6.688306 Tm /F4+0 12 Tf 14.4 TL (+) Tj T* ET
@@ -3149,40 +3149,40 @@ BT 1 0 0 1 79.6722 12.62718 Tm /F4+0 8.4 Tf 10.08 TL (1) Tj T* ET
 n 26.16328 9.688306 19.75312 .75 re B*
 Q
 q
-1 0 0 1 62.69291 608.0236 cm
+1 0 0 1 62.69291 590.0236 cm
 Q
 q
-1 0 0 1 62.69291 596.0236 cm
+1 0 0 1 62.69291 578.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 596.0236 cm
+1 0 0 1 62.69291 578.0236 cm
 Q
 q
-1 0 0 1 62.69291 554.0236 cm
+1 0 0 1 62.69291 536.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.286457 Tw (Note that the antenatal bias output in the ANCbias.txt file is already in exponentiated form, so that the) Tj T* 0 Tw 1.054985 Tw (formula one would enter into Excel to calculate the adjusted antenatal prevalence would be of the form) Tj T* 0 Tw (\221=1/\(1+\(1/ANCprev-1\)/ANCbias\)\222.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 536.0236 cm
+1 0 0 1 62.69291 518.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Some points to note on the timing of output calculations:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 530.0236 cm
+1 0 0 1 62.69291 512.0236 cm
 Q
 q
-1 0 0 1 62.69291 530.0236 cm
+1 0 0 1 62.69291 512.0236 cm
 Q
 q
-1 0 0 1 62.69291 518.0236 cm
+1 0 0 1 62.69291 500.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3203,10 +3203,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 512.0236 cm
+1 0 0 1 62.69291 494.0236 cm
 Q
 q
-1 0 0 1 62.69291 452.0236 cm
+1 0 0 1 62.69291 434.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3227,10 +3227,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 446.0236 cm
+1 0 0 1 62.69291 428.0236 cm
 Q
 q
-1 0 0 1 62.69291 422.0236 cm
+1 0 0 1 62.69291 404.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3251,10 +3251,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 416.0236 cm
+1 0 0 1 62.69291 398.0236 cm
 Q
 q
-1 0 0 1 62.69291 404.0236 cm
+1 0 0 1 62.69291 386.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3275,51 +3275,51 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 404.0236 cm
+1 0 0 1 62.69291 386.0236 cm
 Q
 q
-1 0 0 1 62.69291 350.0236 cm
+1 0 0 1 62.69291 332.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.23061 Tw (To generate model results for the counterfactual scenario in which there is no increase in condom use) Tj T* 0 Tw 1.24832 Tw (over time, edit out line 6753 in the \221TSHISAv1.cpp\222 file and remove the two forward slashes in the line) Tj T* 0 Tw .10332 Tw (above, so that the UpdateCondomUse function is called only at the start of each simulation, and not at the) Tj T* 0 Tw (start of each year.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 320.0236 cm
+1 0 0 1 62.69291 302.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .128935 Tw (To generate the model results for the counterfactual scenario in which there is no ART, edit in line 6747 in) Tj T* 0 Tw (the \221TSHISAv1.cpp\222 file \(\223HAARTaccess[CurrYear-StartYear = 0.0;\224\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 287.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Credits) Tj T* ET
-Q
-Q
-q
 1 0 0 1 62.69291 269.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Leigh Johnson is the author of the STI HIV model coded in TSHISAv1.cpp and TSHISAv1.h.) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Credits) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 251.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This 3rd-party code is used by this project:) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Leigh Johnson is the author of the STI HIV model coded in TSHISAv1.cpp and TSHISAv1.h.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 233.0236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This 3rd-party code is used by this project:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 215.0236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Agner Fog is the author of the mersenne twister code.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 203.0236 cm
+1 0 0 1 62.69291 185.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.899983 Tw (Barry Brown, James Lovato, and Kathy Russell are the authors of the statistics functions in) Tj T* 0 Tw (StatFunctions.cpp and StatFunctions.h) Tj T* ET
@@ -3404,19 +3404,19 @@ xref
 0000132287 00000 n
 0000132411 00000 n
 0000138489 00000 n
-0000148195 00000 n
-0000156412 00000 n
-0000156531 00000 n
-0000156608 00000 n
-0000156685 00000 n
+0000148289 00000 n
+0000156642 00000 n
+0000156761 00000 n
+0000156838 00000 n
+0000156915 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\3772\026\035\325\344\243\244\204R\(s_\242@:) (\3772\026\035\325\344\243\244\204R\(s_\242@:)] 
+ [({\314$M\014jv\201\266DHr\367\311\240,) ({\314$M\014jv\201\266DHr\367\311\240,)] 
 
  /Info 34 0 R
  /Root 33 0 R
  /Size 51 >>
 startxref
-156732
+156962
 %%EOF
