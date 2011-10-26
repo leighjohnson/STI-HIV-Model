@@ -57,7 +57,7 @@ In Linux the executable is called *stihiv*.
 Technical note for users of the HIV-STI model
 ---------------------------------------------
 
-NB: This technical note does not display equations in github. Read the generated file README.pdf. 
+**NB: This technical note does not display equations in github. You have to read the generated file README.pdf to see the math display properly. Clicking on the README.pdf file in github will not display the pdf file properly, because github does not have a built in PDF display mechanism. So you have to download this project by clicking the ZIP icon.** 
 
 Running the HIV-STI model generates several output files.  The output files should be saved in the same folder as the folder in which the other project files are saved. For the purpose of the published paper, the key output files are:
 
